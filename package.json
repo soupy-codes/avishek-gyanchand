@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "homepage": "/avishek-gyanchand/",
-  "main": "src/main.jsx",
+
   "dependencies": {
     "@heroicons/react": "^2.0.18",
     "framer-motion": "^10.16.10",
